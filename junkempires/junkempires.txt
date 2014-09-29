@@ -1,0 +1,12 @@
+"junkempires"
+{
+	"name"		"Junk Empires"
+	"version"	".09h"
+
+	"author_name"	"grippe"
+	"author_email"	""
+	"author_url"	""
+	
+	"info"		"Junk Empires - raise armies, build cities, dominate the world!"
+	"hide"		"0"
+}
